@@ -1,5 +1,5 @@
-# About-LV---MEJO-121
-HTML / CSS Project for MEJO 121
+# Hello World!
+This is my HTML / CSS Project for MEJO 121. I hope this works!
 
 </head>
   <body data-gr-c-s-loaded="true">
