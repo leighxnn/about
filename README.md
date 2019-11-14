@@ -5,7 +5,7 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
   <body data-gr-c-s-loaded="true">
     <h1> <strong> About Leighann </strong> </h1>
     <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in Media and Journalism, and I love to design and do puzzles. I am involved in Greek Life at UNC. I have a dog named Bella (sorry no pictures of her are on here). I also think Cake is the best dessert. </p>
-<img src="DSC_0049.JPG" alt="It's Me!." height="500">
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
     <h3>here's my top three favorite colors</h3>
     <ul>
       <li>yellow</li>
