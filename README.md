@@ -9,6 +9,9 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
 <img src="![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png)
 " alt="Leighann on the Floor">
 
+![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png)
+
+
     <h3>here's my top three favorite colors</h3>
     <ul>
       <li>yellow</li>
