@@ -8,6 +8,7 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
     <h1> <strong> About Leighann </strong> </h1>
     <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in Media and Journalism, and I love to design and do puzzles. I am involved in Greek Life at UNC. I have a dog named Bella (sorry no pictures of her are on here). I also think Cake is the best dessert. </p>
 
+ <h2>some things about me</h2>
     <h3>here's my top three favorite colors</h3>
     <ul>
       <li>yellow</li>
