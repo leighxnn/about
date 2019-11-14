@@ -2,7 +2,7 @@
     <h1> <strong> About Leighann </strong> </h1>
     <p> I am from Charlotte, North Carolina. I am a first-year majoring in Media and Journalism, and I love to design and do puzzles. I am involved in Greek Life at UNC. I have a dog named Bella (sorry no pictures of her are on here). I also think Cake is the best dessert. </p>
  
-![alt text](![image](https://user-images.githubusercontent.com/57735217/68818983-bf9d5480-0654-11ea-8ec5-4f4eb0655058.png)
+(![image](https://user-images.githubusercontent.com/57735217/68818983-bf9d5480-0654-11ea-8ec5-4f4eb0655058.png)
 
 
  <h2>some things about me</h2>
