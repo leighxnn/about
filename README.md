@@ -1,7 +1,7 @@
 # Hello World!
 This is my HTML / CSS Project for MEJO 121. I hope this works!
 
-![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png) height="500"
+![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png) 
 
 
   <body data-gr-c-s-loaded="true">
