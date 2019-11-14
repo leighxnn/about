@@ -3,9 +3,9 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
 
 </head>
   <body data-gr-c-s-loaded="true">
-    <h1> <strong> About leighann </strong> </h1>
-    <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in media and journalism, and i love to design and do puzzles. I am involved in greek life at unc, and am in pi phi. i also love my dog, and eating cake. </p>
-<img src="IMG_87192.JPG" alt="It's Me!." height="500">
+    <h1> <strong> About Leighann </strong> </h1>
+    <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in Media and Journalism, and I love to design and do puzzles. I am involved in Greek Life at UNC. I have a dog named Bella (sorry no pictures of her are on here). I also think Cake is the best dessert. </p>
+<img src="DSC_0049.JPG" alt="It's Me!." height="500">
     <h3>here's my top three favorite colors</h3>
     <ul>
       <li>yellow</li>
@@ -19,12 +19,10 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
       <li>i love bees</li>
     </ul>
 
-    <h2>follow me on social media... or just stalk it i guess</h2>
-    <h3>instagram</h3>
-    <ul><li><a href="https://www.instagram.com/leighxnn/"> instagram</a></li></ul>
-    <h3>twitter</h3>
-    <ul><li><a href="https://twitter.com/leighxnn"> twitter</a></li></ul>
-   <a href="https://www.facebook.com/leighann.vinesett3?ref=bookmarks">facebook</a>
+  
+   <a href="https://www.facebook.com/leighann.vinesett3?ref=bookmarks">stalk me on facebook!</a>
+   <a href="https://www.twitter.com/leighxnn?ref=bookmarks">follow me on twitter!</a>
+   <a href="https://www.instagram.com/leighxnn?ref=bookmarks">like my instagram!</a>
 
 
 
