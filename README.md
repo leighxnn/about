@@ -27,8 +27,7 @@ HTML / CSS Project for MEJO 121
     <ul><li><a href="https://www.instagram.com/leighxnn/"> instagram</a></li></ul>
     <h3>twitter</h3>
     <ul><li><a href="https://twitter.com/leighxnn"> twitter</a></li></ul>
-    <h3>facebook</h3>
-    <ul><li><a href="https://www.facebook.com/leighann.vinesett.3"> facebook</a></li></ul>
+   <a href="https://www.facebook.com/leighann.vinesett3?ref=bookmarks">facebook</a>
 
 
 
