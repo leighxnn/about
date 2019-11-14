@@ -2,7 +2,7 @@
     <h1> <strong> About Leighann </strong> </h1>
     <p> I am from Charlotte, North Carolina. I am a first-year majoring in Media and Journalism, and I love to design and do puzzles. I am involved in Greek Life at UNC. I have a dog named Bella (sorry no pictures of her are on here). I also think Cake is the best dessert. </p>
  
-<img src="https://www.google.com/search?q=leighann+vinesett&safe=active&rlz=1C1CHZL_enUS756US756&sxsrf=ACYBGNS5m_7sKtEO2R2SG3z7bvDsHTKFJg:1573695496249&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJ-6bIyOjlAhUDq1kKHf14DeIQ_AUIEigB&biw=1280&bih=575&dpr=1.5#imgrc=8YjhhDDmZW9EhM:" alt="LMV">
+![image](https://user-images.githubusercontent.com/57735217/68818983-bf9d5480-0654-11ea-8ec5-4f4eb0655058.png)
 
 
  <h2>some things about me</h2>
