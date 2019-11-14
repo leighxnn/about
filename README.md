@@ -16,8 +16,8 @@
       <li>i love bees</li>
     </ul>
 
- ![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png) 
- 
+![image](https://user-images.githubusercontent.com/57735217/68818763-fc1c8080-0653-11ea-8637-a2a5db2d1c2e.png)
+
    <a href="https://www.facebook.com/leighann.vinesett3?ref=bookmarks">stalk me on facebook!</a>
    <a href="https://www.twitter.com/leighxnn?ref=bookmarks">follow me on twitter!</a>
    <a href="https://www.instagram.com/leighxnn?ref=bookmarks">like my instagram!</a>
