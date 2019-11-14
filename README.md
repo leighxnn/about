@@ -1,7 +1,7 @@
 # Hello World!
 This is my HTML / CSS Project for MEJO 121. I hope this works!
 
-![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png)
+![image](https://user-images.githubusercontent.com/57735217/68818207-3dac2c00-0652-11ea-842e-c1e32e8cb1b9.png) height="500"
 
 
   <body data-gr-c-s-loaded="true">
@@ -22,7 +22,7 @@ This is my HTML / CSS Project for MEJO 121. I hope this works!
       <li>i love bees</li>
     </ul>
 
-  
+ 
    <a href="https://www.facebook.com/leighann.vinesett3?ref=bookmarks">stalk me on facebook!</a>
    <a href="https://www.twitter.com/leighxnn?ref=bookmarks">follow me on twitter!</a>
    <a href="https://www.instagram.com/leighxnn?ref=bookmarks">like my instagram!</a>
