@@ -7,8 +7,7 @@ HTML / CSS Project for MEJO 121
   <body data-gr-c-s-loaded="true">
     <h1> <strong> About leighann </strong> </h1>
     <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in media and journalism, and i love to design and do puzzles. I am involved in greek life at unc, and am in pi phi. i also love my dog, and eating cake. </p>
-    <img src="https://imgur.com/tFyTv7N" alt="leighann vinesett">
-    <h2>some things about me</h2>
+<img src="IMG_87192.JPG" alt="It's Me!." height="500">
     <h3>here's my top three favorite colors</h3>
     <ul>
       <li>yellow</li>
