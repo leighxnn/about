@@ -1,9 +1,7 @@
 # About-LV---MEJO-121
 HTML / CSS Project for MEJO 121
-<!DOCTYPE html>
-    <title> Leighann vinesett </title>
-    <link rel="stylesheet" href="style.css">
-  </head>
+
+</head>
   <body data-gr-c-s-loaded="true">
     <h1> <strong> About leighann </strong> </h1>
     <p> I am from <em> Charlotte,North Carolina.</em> I am a first-year majoring in media and journalism, and i love to design and do puzzles. I am involved in greek life at unc, and am in pi phi. i also love my dog, and eating cake. </p>
